@@ -142,6 +142,8 @@ Add screenshots for:
 * Failover Demonstration
   <img width="1289" height="446" alt="Screenshot 2026-06-01 222730" src="https://github.com/user-attachments/assets/a80a233f-7ea7-439e-beba-4ac054a2e27b" />
   <img width="1433" height="772" alt="Screenshot 2026-06-01 223633" src="https://github.com/user-attachments/assets/edf444ce-ba20-43fe-a822-8e3723a3ae68" />
+  <img width="1415" height="897" alt="Screenshot 2026-06-01 235651" src="https://github.com/user-attachments/assets/f70a86e8-d8b0-4988-8ef3-49eed04dcc29" />
+
   
 
 ---
