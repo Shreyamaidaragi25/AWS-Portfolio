@@ -164,7 +164,6 @@ This project demonstrates practical knowledge of:
 
 ## Future Enhancements
 
-* Auto Scaling Group
 * Route 53 Custom Domain
 * HTTPS using ACM Certificates
 * AWS WAF Integration
